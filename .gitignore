@@ -1,0 +1,38 @@
+node_modules
+.DS_Store
+
+# Meta
+.meta
+
+# Yarn
+.yarn
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Swap the comments on the following lines if you don't wish to use zero-installs
+# Documentation here: https://yarnpkg.com/features/zero-installs
+!.yarn/cache
+#.pnp.*
+/ankh-config/
+/packages/ankh-config/
+/packages/ankh-lint/
+/ankh-cli/
+/reeds/
+/reeds/ankh-vueuse/
+/https:/github.com/artiphishle/prettierrc/
+/ankh-prettier/
+/packages/
+/packages/ankh-cli/
+/artiphishle/prettierrc/
+/packages/ankh-prettier/
+/packages/ankh-lint/
+/packages/ankh-cli/
+/packages/ankh-conf/
+/packages/ankhlint/
+/packages/ankhcli/
+/packages/ankhlint/
+/packages/ankhlint/
+/packages/ankhcli/

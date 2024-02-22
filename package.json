@@ -1,0 +1,17 @@
+{
+  "description": "Ankhorage meta repository",
+  "keywords": [
+    "ankhorage",
+    "ankh",
+    "meta"
+  ],
+  "name": "ankhmeta",
+  "packageManager": "pnpm@8.1.0",
+  "private": true,
+  "scripts": {},
+  "sideEffects": false,
+  "version": "0.1.0",
+  "devDependencies": {
+    "meta": "^2.2.25"
+  }
+}

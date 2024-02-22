@@ -1,24 +1,34 @@
-# ankh-meta
+# ankhmeta
 
 Ankhorage meta repository
 
-## @tv/
+## Quickstart
 
-### lightning/
+```bash
+# End user:
+npx ankhorage
 
-Ready to use open-source TV framework, let's deploy edusub to test.
+# Development:
+meta loop 'pnpm i'
+```
 
-## @test/
+## Content
 
-### cypress
+### Ankh CLI
 
-This is low prioritized for now, edusub POC first.
+Ankhorage CLI tool
 
-### experience
+### Ankh Lint
 
-set of tests to ensure best UX practices applied on most common devices
+Ankhorage Linting and formatting tool
 
-### jest
+## Planned candidates
+
+### ankhtest
+
+- Cypress
+- Puppeteer
+- Jest
 
 There are a lot unit tests to do (hooks, etc.) in addition to the in the storybook handled component tests.
 

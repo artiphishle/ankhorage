@@ -1,17 +1,23 @@
 {
+  "bin": {
+    "ankhorage": "./index.js"
+  },
   "description": "Ankhorage meta repository",
+  "engines": {
+    "node": "^20.11.0"
+  },
   "keywords": [
     "ankhorage",
     "ankh",
     "meta"
   ],
-  "name": "ankhmeta",
-  "packageManager": "pnpm@8.1.0",
+  "name": "ankhorage",
   "private": true,
   "scripts": {},
   "sideEffects": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "devDependencies": {
-    "meta": "^2.2.25"
+    "meta": "^2.2.25",
+    "typescript": "^5.3.3"
   }
 }

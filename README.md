@@ -1,4 +1,4 @@
-# ankhmeta
+# ankhorage
 
 Ankhorage meta repository
 

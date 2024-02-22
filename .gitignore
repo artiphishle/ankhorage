@@ -36,3 +36,7 @@ node_modules
 /packages/ankhlint/
 /packages/ankhlint/
 /packages/ankhcli/
+/packages/ankhorage/
+/packages/ankh-lib/
+/packages/ankh-uml/
+/packages/ankh-sequence/

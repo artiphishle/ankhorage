@@ -6,10 +6,10 @@ Ankhorage meta repository
 
 ```bash
 # End user:
-npx ankhorage
+npx ankh-cluster
 
 # Development:
-meta loop 'pnpm i'
+meta loop 'yarn i'
 ```
 
 ## Content

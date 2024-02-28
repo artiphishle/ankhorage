@@ -40,3 +40,5 @@ node_modules
 /packages/ankh-lib/
 /packages/ankh-uml/
 /packages/ankh-sequence/
+/packages/ankh-custer/
+/packages/ankh-prettier/

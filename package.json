@@ -13,11 +13,15 @@
   ],
   "name": "ankhorage",
   "private": true,
-  "scripts": {},
+  "scripts": {
+  },
   "sideEffects": false,
   "version": "0.1.1",
   "devDependencies": {
     "meta": "^2.2.25",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.8.0"
   }
 }

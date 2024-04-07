@@ -19,9 +19,9 @@
   "version": "0.1.1",
   "devDependencies": {
     "meta": "^2.2.25",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.4"
   },
   "dependencies": {
-    "@vueuse/core": "^10.8.0"
+    "@vueuse/core": "^10.9.0"
   }
 }
